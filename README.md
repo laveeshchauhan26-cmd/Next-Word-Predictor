@@ -121,6 +121,4 @@ Aspiring AI/ML Engineer
 
 GitHub: https://github.com/laveeshchauhan26-cmd
 
----
 
-⭐ If you find this project interesting, feel free to star the repository!
